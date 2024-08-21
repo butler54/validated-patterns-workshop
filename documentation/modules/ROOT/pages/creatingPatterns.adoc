@@ -6,6 +6,10 @@ include::main@vp-workshop:ROOT:partial$topicHeader.adoc[]
 * Understanding `common`
 * Pattern Requirements
 * Creation Process
+** Naming
+** Adding to the BoM
+** Values files overrides
+
 
 [IMPORTANT]
 .Core Concepts
